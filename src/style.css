@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1 {
+    color: #7C7C7C;
+    font-size: 25px;
+    font-weight: 400;
+  }
+  
+  p {
+    color: #7C7C7C;
+  }
+  
+  .weather-app{
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #dadde1;
+    max-width: 550px;
+    height: 225px;
+  }
+  
+  .search-input {
+    border: 1px solid #dadde1;
+    border-radius: 3px;
+    width: 70%;
+    box-shadow: 3px 2px #F0F0F0;
+    font-size: 17px;
+    padding: 8px;
+  }
+  
+  .search-button{
+    width: 20%;
+    padding: 8px;
+    font-size: 17px;
+    background-color: #0069D9;
+    color: #ffff;
+    border: 1px #0069D9;
+    border-radius: 3px;
+  }
+  
+  .temperature-icon{
+    font-size: 50px;
+  }
+  
+  .current-temperature{
+    font-size: 60px;
+  }
+  
+  .temperature-symbol {
+    position: relative;
+    top: -30px;
+  }
+  
+  .farenheit {
+    color: #0069D9;
+  }
+  
+  .sydney-temp-info {
+    position: relative;
+    right: -300px;
+    top: -70px;
+    color: #7C7C7C;
+  }
