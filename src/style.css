@@ -91,7 +91,7 @@ body {
     font-weight: bold;
   }
 
-  .current-temp-value {
+  .current-temp-unit {
     font-size: 28px;
     position: relative;
     top: -38px;
